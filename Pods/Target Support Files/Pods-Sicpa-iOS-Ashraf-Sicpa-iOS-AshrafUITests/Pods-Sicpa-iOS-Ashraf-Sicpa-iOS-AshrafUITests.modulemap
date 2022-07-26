@@ -1,0 +1,6 @@
+framework module Pods_Sicpa_iOS_Ashraf_Sicpa_iOS_AshrafUITests {
+  umbrella header "Pods-Sicpa-iOS-Ashraf-Sicpa-iOS-AshrafUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}

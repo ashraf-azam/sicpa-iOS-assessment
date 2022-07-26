@@ -1,0 +1,6 @@
+framework module Pods_Sicpa_iOS_Ashraf {
+  umbrella header "Pods-Sicpa-iOS-Ashraf-umbrella.h"
+
+  export *
+  module * { export * }
+}

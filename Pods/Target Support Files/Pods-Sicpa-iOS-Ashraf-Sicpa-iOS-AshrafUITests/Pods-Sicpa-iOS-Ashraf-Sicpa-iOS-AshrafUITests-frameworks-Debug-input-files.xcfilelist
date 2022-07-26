@@ -1,0 +1,4 @@
+${PODS_ROOT}/Target Support Files/Pods-Sicpa-iOS-Ashraf-Sicpa-iOS-AshrafUITests/Pods-Sicpa-iOS-Ashraf-Sicpa-iOS-AshrafUITests-frameworks.sh
+${BUILT_PRODUCTS_DIR}/RxCocoa/RxCocoa.framework
+${BUILT_PRODUCTS_DIR}/RxRelay/RxRelay.framework
+${BUILT_PRODUCTS_DIR}/RxSwift/RxSwift.framework
